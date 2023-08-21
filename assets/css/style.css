@@ -1,0 +1,16 @@
+.collapse{
+    display: flex;
+    align-items: center;
+}
+.right-navbar{
+    display: flex;
+    list-style-type: none;
+}
+.nav-item{
+    padding: 10px;
+}
+
+.card{
+    border: 0px;
+    padding: 15px;
+}
